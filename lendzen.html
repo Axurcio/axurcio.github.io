@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Add Your favicon here -->
+    <!--<link rel="icon" href="img/favicon.ico">-->
+
+    <title>LendZen - Coming soon</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Animation CSS -->
+    <link href="css/animate.min.css" rel="stylesheet">
+
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body id="page-top">
+
+    <div class="navbar-wrapper">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                    <a class='navbar-brand' [routerLink]="['/home']">LendZen</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="#home">
+                                <span class='glyphicon glyphicon-home'></span> Home
+                            </a>
+                        </li>
+                        <li [routerLinkActive]="['link-active']">
+                            <a href="#howitworks">
+                                <span class='glyphicon glyphicon-certificate'></span> How it works
+                            </a>
+                        </li>
+                        <li [routerLinkActive]="['link-active']">
+                            <a href="#lenders">
+                                <span class='glyphicon glyphicon-th-list'></span> Lenders
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#search">
+                                <span class='glyphicon glyphicon-search'></span> Search
+                            </a>
+                        </li>
+                        <li [routerLinkActive]="['link-active']">
+                            <a href="#contact">
+                                <span class='glyphicon glyphicon-phone'></span> Contact
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+
+    <div id="inSlider" class="carousel carousel-fade" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#inSlider" data-slide-to="0" class="active"></li>
+            <li data-target="#inSlider" data-slide-to="1"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <div class="container">
+                    <div class="carousel-caption">
+                        <p>
+                            <img src="img/logo-cdm-1.png" alt="lendzen" />
+                        </p>
+                        <h3>Empower your credit profile to get the best loan</h3>
+                    </div>
+                    <div class="carousel-image wow zoomIn">
+                        <img src="img/laptop.png" alt="lendzen calculators" />
+                    </div>
+                </div>
+                <!-- Set background for slide in css -->
+                <div class="header-back one"></div>
+
+            </div>
+            <div class="item">
+                <div class="container">
+                    <div class="carousel-caption blank">
+                        <h1>Free to use</h1>
+                        <p>Shop for credit for use without negatively impacting your credit score</p>
+                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Coming soon</a></p>
+                    </div>
+                </div>
+                <!-- Set background for slide in css -->
+                <div class="header-back two"></div>
+            </div>
+        </div>
+        <a class="left carousel-control" href="#inSlider" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#inSlider" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+
+    <section id="home" class="container services">
+        <div class="row">
+            <div class="col-sm-3">
+                <h2>Lenders</h2>
+                <p>View pre-negotiated deals from multiple lenders that meet your criteria.</p>
+                <p><a class="navy-link" href="#" role="button">coming soon &raquo;</a></p>
+            </div>
+            <div class="col-sm-3">
+                <h2>Credit shopping</h2>
+                <p>Can hurt your credit score. Too may credit requests negatively affect your ability to get credit. We do not imprint on your credit file</p>
+                <p><a class="navy-link" href="#" role="button">coming soon &raquo;</a></p>
+            </div>
+            <div class="col-sm-3">
+                <h2>Choice, savings & convenience</h2>
+                <p>We automate the application process to save you time</p>
+                <p><a class="navy-link" href="#" role="button">coming soon &raquo;</a></p>
+            </div>
+            <div class="col-sm-3">
+                <h2>Matching you with the best lenders</h2>
+                <p>We know the lenders credit criteria and match your profile with those where you are best suited</p>
+                <p><a class="navy-link" href="#" role="button">coming soon &raquo;</a></p>
+            </div>
+        </div>
+    </section>
+
+    <section id="howitworks" class="container features">
+        <div class="row">
+            <div class="jumbotron">
+                <div class="navy-line"></div>
+                <center>
+                    <h1>How it works</h1>
+                </center>
+                <ul>
+                    <li>Sign up for free by entering you details and optionally attaching a read only view of your bank account.</li>
+                    <li>We scan our lending panel using your credit profile and present you with lender offers that match your credit profile. We do NOT impact your credit file unlike directly applying with a lender.</li>
+                    <li>Choose your preferred lender and we will automatically apply with them saving you time.</li>
+                    <li>The lender will be in touch regarding on-going processing of the loan.</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3 text-center wow fadeInLeft">
+                <div>
+                    <i class="fa fa-mobile features-icon"></i>
+                    <h2>Shopping for credit?</h2>
+                    <p>Will hurt your credit score - using a broker will avoid this</p>
+                </div>
+                <div class="m-t-lg">
+                    <i class="fa fa-bar-chart features-icon"></i>
+                    <h2>Access Seeker vs. Credit Provider</h2>
+                    <p>As an 'Access Seeker' we will not negatively affect your credit score unlike a 'Credit Provider'.</p>
+                </div>
+            </div>
+            <div class="col-md-6 text-center  wow zoomIn">
+                <img src="img/perspective.png" alt="dashboard" class="img-responsive">
+            </div>
+            <div class="col-md-3 text-center wow fadeInRight">
+                <div>
+                    <i class="fa fa-envelope features-icon"></i>
+                    <h2>Calculators</h2>
+                    <p>Free online financial calculators cover all areas of finance from home loans, credit cards and managing debt, savings through to general budgeting and tax.</p>
+                </div>
+                <div class="m-t-lg">
+                    <i class="fa fa-google features-icon"></i>
+                    <h2>How we make money</h2>
+                    <p>We provide customers with access to lots of different products in our comparison tables. In some product categories, we include filters that make it easier for customers to narrow down their search to view initially only the products
+                        where they are able to connect directly with the providers. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="container services" id="lenders">
+        <link rel="stylesheet" href="/css/providers.css" />
+        <div class="row clear">
+            <div class="jumbotron">
+                <center>
+                    <h1>Lenders we compare</h1>
+                </center>
+                <ul class="list-unstyled">
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-3317">Commonwealth Bank</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-1759">NAB</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-619">Westpac</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-1092">ANZ</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-3633">Bankwest</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-761">Suncorp</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-917">St.George</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-1192">Citibank</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-2348">ING DIRECT</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-2477">RaboDirect</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-2334">ME</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-3227">UBank</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-3123">RAMS</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-969">loans.com.au</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-1238">HSBC</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-3332">Latitude</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-1739">CUA</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-711">American Express</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-2154">Bank of Melbourne</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-607">Bank of Queensland</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-2285">Virgin Money</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-3092">Woolworths</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-2590">Bank Australia</div>
+                    </li>
+                    <li class="col-xs-6 col-sm-4">
+                        <div class="thumb-689">Heritage Bank</div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </section>
+    <section id="search" class="features">
+        <div class="container">
+            <div class="row">
+                <div class="jumbotron">
+                    <div class="navy-line"></div>
+                    <center>
+                        <h1>Searching</h1>
+                    </center>
+                    <p>Our technology scans hundreds of products from major lenders, and helps you discover rates you might not be seeing elsewhere.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 features-text">
+                    <h2>Streamlining your application</h2>
+                    <i class="fa fa-bar-chart big-icon pull-right"></i>
+                    <p>To get your approval as quick as possible</p>
+                </div>
+                <div class="col-lg-5 features-text">
+                    <h2>Connecting you to a local broker</h2>
+                    <i class="fa fa-bolt big-icon pull-right"></i>
+                    <p>Want some help? We connect you to a specialised broker in your area</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="gray-section contact">
+        <div class="container">
+            <div class="row m-b-lg">
+                <div class="col-lg-12 text-center">
+                    <div class="navy-line"></div>
+                    <h1>Contact Us</h1>
+                    <p><a href="/cdn-cgi/l/email-protection#fa9293dcd9cccec1969f949e809f94d4999597d49b8fc5a98f98909f998ec7b29f969695" target="_top">Send Mail</a></p>
+                </div>
+            </div>
+            <div class="row m-b-lg">
+                <div class="col-lg-3 col-lg-offset-3">
+                    <address>
+                    <strong><span class="navy"><a href="https://twitter.com/lendzen">Twitter</a></span></strong><br/>
+                    <br/>
+                   PO Box 465 Karrinyup WA 6921<br/>
+                    <abbr title="Phone">P:</abbr> 042 697 2312
+                </address>
+                </div>
+                <div class="col-lg-4">
+                    <p class="text-color">
+                        <small>
+                            LendZen provides factual information in relation to financial products. While LendZen attempts to make a wide range of products and providers available via its site it may not cover all the options available to you. The information published on LendZen is general in nature only and does not consider your personal objectives, financial situation or particular needs and is not recommending any particular product to you. If you decide to apply for a product you will be dealing directly with that provider and not with LendZen. LendZen recommends that you read the relevant PDS or offer documentation before taking up any financial product offer. For more information please see LendZen's FSG, General advice disclaimer or Terms of use.
+                        </small>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <a href="/cdn-cgi/l/email-protection#204849604c454e445a454e0e434f4d0e4155" class="btn btn-primary">Send us mail</a>
+                    <p class="m-t-sm">
+                        Or follow us on social platform
+                    </p>
+                    <ul class="list-inline social-icon">
+                        <li><a href="https://twitter.com/lendzen"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        <li><a href="https://www.facebook.com/lendzencomau"><i class="fa fa-facebook"></i></a>
+                        </li>
+                        <li><a href="https://www.linkedin.com/company/lendzen"><i class="fa fa-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+                    <p><strong>&copy; 2017 LendZen</strong><br/> <strong>&copy; 2018 LendZen</strong> All Rights Reserved ABN: 77 176 885 735</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="navy-section twitter" style="margin-top: 0">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center wow zoomIn">
+                    <a class="twitter-timeline" href="https://twitter.com/lendzen">Tweets by lendzen</a>
+                    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="js/jquery-2.1.1.js"></script>
+    <script src="js/pace.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-9649471-4', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+
+</html>

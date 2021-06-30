@@ -1,8 +1,0 @@
-title: RedTrout.GitHub.io
-description: The RedTrout Philosophy
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-merlot
-
-gems:
-  - jekyll-mentions

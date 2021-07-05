@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: fullit, javascript, css, html, bootstrap, framework
-canonical: https://fullit.github.io
+canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 

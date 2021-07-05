@@ -13,7 +13,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://fullit.github.io
+canonical: https://axurcio.com
 
 ---
 {% include JB/setup %}

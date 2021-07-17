@@ -50,9 +50,10 @@ Machine Learning
 
 {:.label .label-success-filled}
 {:.sub-title}
-Minimum Lovable Products
-
+IoT  
 <br />
+
+![image](/assets/images/solutions/iot.png)    
 
 Axurcio has a wealth of knowledge when it comes to realising an idea as a successful commercial venture.
 Our experience comes from both working on our own products and the products of our partners and customers.  

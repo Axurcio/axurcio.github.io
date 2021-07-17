@@ -49,7 +49,7 @@ This research, together with our extensive delivery experience, forms the basis 
 * Take immediate action to get the right metrics in place, and build better software, faster!
 
 
-## Ready to know your numbers?
+## Ready to start?
 
 
 [Contact Us](/contact)

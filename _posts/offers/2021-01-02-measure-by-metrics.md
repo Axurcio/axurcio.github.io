@@ -3,7 +3,7 @@ layout: post
 category : assessments
 tagline: "Baseline delivery to improve performance"
 tags : [devops, metrics, assessments]
-img : /solutions/perspective.png
+img : /stock/Invest.svg
 img-mobile : 
 img2 : 
 img3 : 
@@ -18,7 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-### Understand what to measure and how to use them to accelerate your business
+Understand what to measure and how to use them to accelerate your business
 
 <!--more-->
 

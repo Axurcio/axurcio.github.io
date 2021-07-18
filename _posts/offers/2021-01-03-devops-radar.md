@@ -3,7 +3,7 @@ layout: post
 category : assessments
 tagline: "Visualise your DevOps journey"
 tags : [devops, metrics, assessments]
-img : /solutions/perspective.png
+img : /solutions/DevOps-Health-Radar-Web.png
 img-mobile : 
 img2 : 
 img3 : 
@@ -18,7 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-### Use the DevOps Radar to guide your way
+Use the DevOps Radar to guide your way
 
 <!--more-->
 
@@ -37,8 +37,8 @@ This research, together with our extensive delivery experience, forms the basis 
 
 * Interviews with technology leaders to evaluate the current state, understand the measurement potential, and determine metrics to measure
 
-* Data analysis to obtain metrics
-* 
+* Data analysis to obtain metrics
+  
 * Radar presentation of insights and detailed action plan for continual improvement
 
 
@@ -57,5 +57,3 @@ This research, together with our extensive delivery experience, forms the basis 
 
 
 [Contact Us](/contact)
-
-![radar](/assets/images/solutions/DevOps-Health-Radar-Web.png)

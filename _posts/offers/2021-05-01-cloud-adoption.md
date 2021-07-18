@@ -18,9 +18,9 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-For organisations just starting out their journey and those looking to better their governance structure, we facilitate and deliver the Microsoft Cloud Adoption Framework.   
-<!--more-->
-<br />
+> For organisations just starting out their journey and those looking to better their governance structure, we facilitate and deliver the Microsoft Cloud Adoption Framework.   
+<!--more-->  
+
 
 If you are starting with your cloud journey, there are many things you need to think of to set up your cloud environment and your Azure cloud architecture . Things like networking, subscription management, security, governance, and many more, can be fairly complex. That is where the Cloud Adoption Framework for Azure can deliver proven guidance to help you with your Azure cloud journey.  
 <br />

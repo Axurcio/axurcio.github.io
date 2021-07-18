@@ -18,36 +18,33 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-Future Proof your system to ensure reliability
+> Score your platform against industry standards to identify risks and opportunities.
 
 <!--more-->
 
-> One day facilitated workshop to focus on metrics that will accelerate your software delivery process, how to obtain them and how to improve them
+> Learn what is best in market, how your systems match up and what to do to bridge the gap
 
-When it comes to measuring an organisation’s ability to develop and operate software systems nothing beats the key metrics identified in the 2019 Accelerate State of DevOps [Report](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) by DevOps Research and Assessment (DORA).  
+**Are you able to:**
 
-The report clearly demonstrates the empirical links between high performing software teams and high performing organisations and provides evidence-based guidance on the capabilities and practices that accelerate digital transformation.  
-
-This research, together with our extensive delivery experience, forms the basis of our DevOps practice.  
-
-
+* Visulise the flow of information through your system?    
+* Automatically deploy changes with no downtime?    
+* Identify business events, their triggers and actions in your organisation     
+* Know the metrics to monitor service performance      
+  
 ### The Solution
 
-* Discovery workshops and interviews to evaluate the current state, understand measurement potential, and determine metrics    
-
-* Presentation report on findings, metric availability and techniques to measure and improve
-
+* One day engagement scheduled to suit your team
+* Interviews with technology leaders to evaluate the current state, understand the measurement potential, and determine metrics to measure
+* Current vs ideal state map
+* Report and presentation
 
 ### Benefits and Outcomes
 
-* Reference leading research linking software speed, stability and availability to organisational performance 
-
-* Understand the importance of performance data and identify the key metrics needed
-
-* Articulate their current performance metrics maturity and identify their key gaps and opportunities
-
-* Take immediate action to get the right metrics in place, and build better software, faster!
-
+* Key risks to current state
+* Metrics to monitor
+* Patterns to enhance reliability
+* Educate team for future implementation
+ 
 
 ## Ready to start?
 

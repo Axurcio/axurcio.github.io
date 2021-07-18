@@ -18,7 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-From Dynamics 365 to Open Source using system and data integration we provide architecture, design, delivery and support.
+Dynamics 365 and the Power Platform system and data integration architecture, design, delivery and support.
 
 <!--more-->
 Many organisations already have good software teams, but they may need a little help. From supplementing your existing team to buildng the foundations of a modern best practice software delivery practice. We help you ship quality software quicker.

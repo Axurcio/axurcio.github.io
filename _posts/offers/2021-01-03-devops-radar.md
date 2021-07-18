@@ -18,7 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-Use the DevOps Radar to guide your way
+> Use the DevOps Radar to guide your way
 
 <!--more-->
 

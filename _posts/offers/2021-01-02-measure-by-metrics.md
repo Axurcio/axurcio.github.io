@@ -18,7 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-Understand what to measure and how to use them to accelerate your business
+> Understand what to measure and how to use them to accelerate your business
 
 <!--more-->
 

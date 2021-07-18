@@ -18,7 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-Rationalise your organisation's technology platform and modernise the delivery model, promote standardised, agile and efficient ways of working.   
+> Rationalise your organisation's technology platform and modernise the delivery model, promote standardised, agile and efficient ways of working.   
 <!--more-->
 
 How can you determine a roadmap for modernisation which enables the pragmatic and achievable delivery of digital outcomes and efficiencies?   

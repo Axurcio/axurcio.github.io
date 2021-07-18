@@ -18,7 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-Our DevOps and Engineering Coaches work together with teams to improve their time to market, and make quality more than just an afterthought
+> Our DevOps and Engineering Coaches work together with teams to improve their time to market, and make quality more than just an afterthought
 <!--more-->
 
 Our Professional Scrum and DevOps trainers help teams and leaders catalyse a mindset shift towards modern management and engineering practices.

@@ -3,7 +3,9 @@
 title : Sitemap
 ---
 
-https:/axurcio.com/
-https:/axurcio.com/contact
+https://axurcio.com
+https://axurcio.com/contact
+https://axurcio.com/learn
+
 {% for post in site.posts %}
 {{site.production_url}}{{ post.url }}{% endfor %}

@@ -53,7 +53,8 @@ This research, together with our extensive delivery experience, forms the basis 
 * Actions for improvement
 
 
-## Ready to start?
+<br />
+<hr />
+### Ready to start?  
 
-
-[Contact Us](/contact)
+[Contact us to start your journey](/contact)

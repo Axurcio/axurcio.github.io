@@ -46,7 +46,8 @@ canonical: https://axurcio.com
 * Educate team for future implementation
  
 
-## Ready to start?
+<br />
+<hr />
+### Ready to start?  
 
-
-[Contact Us](/contact)
+[Contact us to start your journey](/contact)

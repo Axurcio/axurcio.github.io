@@ -56,6 +56,9 @@ The journey to realise a strategic roadmap for your organisation involves 5 key 
 | Trends shaping digital landscape | Opportunities & risks                          | Future workforce plan           | Rollout plan                         | Recommendations                   |
 | Value streams                    | Findings, issues & challenges                  | Total cost of ownership         | Implementation cost estimates        | Stakeholder review & verification |
 
+
 <br />
 <hr />
-[Contact us to start your journey](https://docs.google.com/forms/d/1-Ledakz5ET3v0Oy_Ru3k5dVu3qRNIxL1YYOQBYV6EnY)
+### Ready to start?  
+
+[Contact us to start your journey](/contact)

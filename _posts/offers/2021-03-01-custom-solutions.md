@@ -50,7 +50,9 @@ Machine Learning
 
 {:.label .label-success-filled}
 {:.sub-title}
-IoT  
+IoT Edge    
+  
+
 <br />
 
 ![image](/assets/images/solutions/iot.png)    
@@ -58,6 +60,9 @@ IoT
 Axurcio has a wealth of knowledge when it comes to realising an idea as a successful commercial venture.
 Our experience comes from both working on our own products and the products of our partners and customers.  
 
-<hr />
 
-[Contact us to start your journey](https://docs.google.com/forms/d/1-Ledakz5ET3v0Oy_Ru3k5dVu3qRNIxL1YYOQBYV6EnY)
+<br />
+<hr />
+### Ready to start?  
+
+[Contact us to start your journey](/contact)

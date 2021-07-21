@@ -53,4 +53,6 @@ Our Approach
 
 <br />
 <hr />
-[Contact us to start your journey](https://docs.google.com/forms/d/1-Ledakz5ET3v0Oy_Ru3k5dVu3qRNIxL1YYOQBYV6EnY)
+### Ready to start?  
+
+[Contact us to start your journey](/contact)

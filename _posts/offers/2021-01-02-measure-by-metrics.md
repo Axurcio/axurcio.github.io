@@ -49,7 +49,8 @@ This research, together with our extensive delivery experience, forms the basis 
 * Take immediate action to get the right metrics in place, and build better software, faster!
 
 
-## Ready to start?
+<br />
+<hr />
+### Ready to start?  
 
-
-[Contact Us](/contact)
+[Contact us to start your journey](/contact)

@@ -4,22 +4,29 @@
                   <a href="#"><i class="fa fa-map-marker"></i>Perth, WA</a>
                   <a href="#"><i class="fa fa-mobile-phone"></i>+0426 972 312</a>
                   <a href="#"><i class="fa fa-envelope"></i>axurcio@gmail.com</a>
-              	</span>
-                <span class="right hidden-sm-down">                          
-                  {% if site.author.facebook %}<a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="fa fa-facebook"></i></a>{% endif %}
-                  {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
-                  {% if site.author.linkedin %}<a href="https://www.linkedin.com/company/{{ site.author.linkedin }}/"><i class="fa fa-linkedin"></i></a>{% endif %}
-                  {% if site.author.instagram %}<a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="fa fa-instagram"></i></a>{% endif %}                            
-              	</span>
+                </span>
+                <span class="right hidden-sm-down">
+                  {% if site.author.facebook %}<a href="https://www.facebook.com/{{ site.author.facebook }}/"><i
+                      class="fa fa-facebook"></i></a>{% endif %}
+                  {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter }}"><i
+                      class="fa fa-twitter"></i></a>{% endif %}
+                  {% if site.author.linkedin %}<a href="https://www.linkedin.com/company/{{ site.author.linkedin }}/"><i
+                      class="fa fa-linkedin"></i></a>{% endif %}
+                  {% if site.author.instagram %}<a href="https://www.instagram.com/{{ site.author.instagram }}/"><i
+                      class="fa fa-instagram"></i></a>{% endif %}
+                </span>
               </p>
             </div>
 
             <!-- navbar-default -->
             <nav class="navbar navbar-expand-lg navbar-light bg-default">
               <div class="container">
-                <a class="navbar-brand" href="{{ BASE_PATH }}"><img src="{{ BASE_PATH }}/assets/images/logo.png" alt=""></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-expanded="true" aria-label="Toggle navigation">
-                  <i class="fa fa-bars"></i>
+                <a class="navbar-brand" href="{{ BASE_PATH }}"><img src="{{ BASE_PATH }}/assets/images/logo.png"
+                    alt=""></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                  data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                  aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="show navbar-collapse justify-content-end" id="navbar1">
                   <ul class="navbar-nav">
@@ -27,11 +34,13 @@
                     {% assign group = 'navigation' %}
                     {% include JB/pages_list %}
                     <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Specialities</a>
+                      <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
+                        aria-expanded="false">Specialities</a>
                       <div class="dropdown-menu">
                         <a class="dropdown-item" href="/offers/2021/05/01/cloud-adoption">Cloud Adoption</a>
-                        <a class="dropdown-item" href="/offers/2021/04/01/agile-practices">DevOps & Agile Coaching</a>
-                        <a class="dropdown-item" href="/offers/2021/03/01/custom-solutions">Cloud Native Solutions</a>
+                        <a class="dropdown-item" href="/offers/2021/04/01/coaching">DevOps Consulting</a>
+                        <a class="dropdown-item" href="/offers/2021/04/01/agile">Agile Coaching</a>
+                        <a class="dropdown-item" href="/offers/2021/03/01/custom-solutions">Custom Solutions</a>
                       </div>
                     </li>
                   </ul>

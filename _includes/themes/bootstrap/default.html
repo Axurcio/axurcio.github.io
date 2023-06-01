@@ -22,7 +22,7 @@ hi@axurcio.com
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Axurcio | Perth IT Consultants" />
     <meta property="og:description"
-        content="Perth IT consultants specialising in cloud solutions through agile delivery practices. Azure specialists" />
+        content="Cloud Engineering on Azure and AWS and GCP" />
     <meta property="og:url" content="https://axurcio.com" />
     <meta property="og:site_name" content="Axurcio" />
     <meta property="og:image" content="https://Axurcio.com/assets/images/logos/logo.png" />
@@ -73,12 +73,14 @@ hi@axurcio.com
         title="Sitewide RSS Feed">
     <!-- Google ADS mobile block-->
     {% if site.google_ad_client %}
-    <script type="text/javascript" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script type="text/javascript">
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "{{ site.google_ad_client }}",
-            enable_page_level_ads: true
-        });
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-9649471-5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-9649471-5');
     </script>
     {% endif %}
 </head>

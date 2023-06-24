@@ -1,7 +1,7 @@
 ---
 layout: post
 category : offers
-tagline: "Digital Products"
+tagline: "Product Strategy, Management and Delivery"
 tags : [digital products, product ownership]
 img : solutions/p8.jpg
 img-mobile : 
@@ -36,10 +36,11 @@ We will use a proven product design methodology that we have refined over many y
 
 <br />
 
-![Axurcios Approach](https://user-images.githubusercontent.com/662868/248429973-7f69df2d-c76f-4b35-9af1-d79309420cb1.png)
-
+![Approach](https://user-images.githubusercontent.com/662868/248429973-7f69df2d-c76f-4b35-9af1-d79309420cb1.png)
 
 <br />
+![Steps](https://user-images.githubusercontent.com/662868/248431188-66a42e9b-5e4d-44fc-8379-d4ecfc5e413c.png)
+
 <hr />
 ### Ready to start?  
 

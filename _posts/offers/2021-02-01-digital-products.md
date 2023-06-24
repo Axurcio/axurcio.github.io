@@ -1,7 +1,7 @@
 ---
 layout: post
 category : offers
-tagline: "Digital Products Adoption"
+tagline: "Digital Products"
 tags : [digital products, product ownership]
 img : solutions/p8.jpg
 img-mobile : 
@@ -33,11 +33,10 @@ Our Approach
 We will use a proven product design methodology that we have refined over many years and through multiple customer engagements to understand your vision, strategy, challenges and opportunities. The traditional and most commonly used approach to designing digital products and strategies is to use the Design Thinking approach. Typically, this is comprised of the Four D’s - Discover, Define, Develop and Deliver.   
 <br />
 
-![PVP](https://user-images.githubusercontent.com/662868/248431188-66a42e9b-5e4d-44fc-8379-d4ecfc5e413c.png)
 
 <br />
 
-![Axurcios Approach](https://user-images.githubusercontent.com/662868/248431188-66a42e9b-5e4d-44fc-8379-d4ecfc5e413c.png)
+![Axurcios Approach](https://user-images.githubusercontent.com/662868/248429973-7f69df2d-c76f-4b35-9af1-d79309420cb1.png)
 
 
 <br />

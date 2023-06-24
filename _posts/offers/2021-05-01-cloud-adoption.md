@@ -48,7 +48,7 @@ Our Approach
 
 * Helping you move to the cloud confidently, securely and ensure maintenance with an audited managed service, freeing you to innovate with the latest features of the platform.
 
-* Transforming through cloud-native development to build and configure custom solutions delivering cost-effective solutions with modern data stores and flexible networking to solve real business problems.
+* Transforming through cloud-native development to build and configure digital products delivering cost-effective solutions with modern data stores and flexible networking to solve real business problems.
 
 
 <br />

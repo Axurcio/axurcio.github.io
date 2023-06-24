@@ -21,7 +21,7 @@ canonical: https://axurcio.com
 > Axurcio's Digital Experience team has more than 20 years of experience working with customers to design and develop compelling digital applications and the infrastructure that supports it – applications that are easy to use, engaging and provide a truly distinguished user experience.   
 <!--more-->  
 
-Through deep engagement with your key stakeholders, our team will be able to develop a comprehensive Product Strategy and Execution Plan that will have technology enablement at its core to help you achieve the business objectives of your People Places app, and at the same time help you to overcome challenges and take advantage of opportunities.  
+Through deep engagement with your key stakeholders, our team will be able to develop a comprehensive Product Strategy and Execution Plan that will have technology enablement at its core to help you achieve the business objectives of your digital product, and at the same time help you to overcome challenges and take advantage of opportunities. We do this through our tried and tested Product Validation Process (PVP).  
 <br />
 
 ![Alignment](https://user-images.githubusercontent.com/662868/248431143-dc3e856b-b152-4530-b389-160781873dea.png)
@@ -30,7 +30,7 @@ Through deep engagement with your key stakeholders, our team will be able to dev
 {:.sub-title}
 Our Approach
 
-We will use a proven product design methodology that we have refined over many years and through multiple customer engagements to understand your vision, strategy, challenges and opportunities. The traditional and most commonly used approach to designing digital products and strategies is to use the Design Thinking approach. Typically, this is comprised of the Four D’s - Discover, Define, Develop and Deliver.   
+Using our product design methodology that we have refined over many years through multiple customer engagements, we collaborate to understand your vision, strategy, challenges and opportunities. The traditional and most commonly used approach to designing digital products and strategies is to use the Design Thinking approach. Typically, this is comprised of the Four D’s - Discover, Define, Develop and Deliver.   
 <br />
 
 

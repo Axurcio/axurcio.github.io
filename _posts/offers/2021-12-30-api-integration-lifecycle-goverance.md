@@ -2,7 +2,7 @@
 layout: post
 category : offers
 tagline: "API & Integration Lifecycle Governance"
-tags : [assessment, goverance, strategy]
+tags : [assessment, governance, strategy]
 img : blog/api-governance.png
 img-mobile : 
 img2 : 

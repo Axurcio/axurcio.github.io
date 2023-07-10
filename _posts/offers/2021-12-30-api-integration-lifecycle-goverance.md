@@ -21,7 +21,8 @@ canonical: https://axurcio.com
 > Define an Integrations Lifecycle that follows a Design Thinking Lean Startup Agile approach.   
 <!--more-->
 
-<div>
+<div>    
+
 **Design Thinking** is an iterative process in which we seek to understand the user, challenge assumptions, and redefine problems in an attempt to identify alternative strategies and solutions that might not be instantly apparent with our initial level of understanding. At the same time, Design Thinking provides a solution-based approach to solving problems. It is a way of thinking and working as well as a collection of hands-on methods.
 
 Integration requirements are defined by the business processes they support. Design thinking with respect to integration design refers to the understanding of business processes, the problems and inefficiencies in those processes, and the ideation of integration capabilities which can improve those processes.  
@@ -33,10 +34,11 @@ Integration requirements are defined by the business processes they support. Des
 Integration problems generally fall into one of the following two categories:
 <br />
 
-* **Data Integration** is typically batch-orientated and deals with data at rest. In other words, the process that created the data has already completed.
+<div>    
+**Data Integration** is typically batch-orientated and deals with data at rest. In other words, the process that created the data has already completed.    
 
-* **Application Integration** deals with integrating live operational data in real-time between two or more applications. Application Integration can be either Request based (e.g. "do this now"), Message Based (e.g. "do this when you get a chance"), or Event based (e.g. "this happened"). The mode of application integration is driven by the requirements of the business processes the integration supports, and the limitations and constraints of the technologies available to implement the integration.    
-
+**Application & System Integration** deals with integrating live operational data in real-time between two or more applications. Application Integration can be either Request based (e.g. "do this now"), Message Based (e.g. "do this when you get a chance"), or Event based (e.g. "this happened"). The mode of application integration is driven by the requirements of the business processes the integration supports, and the limitations and constraints of the technologies available to implement the integration.    
+</div>
 <br />
 
 {:.label .label-info-filled}

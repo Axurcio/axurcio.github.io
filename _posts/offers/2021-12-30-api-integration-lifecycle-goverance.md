@@ -21,10 +21,11 @@ canonical: https://axurcio.com
 > Define an Integrations Lifecycle that follows a Design Thinking Lean Startup Agile approach.   
 <!--more-->
 
+<div>
 **Design Thinking** is an iterative process in which we seek to understand the user, challenge assumptions, and redefine problems in an attempt to identify alternative strategies and solutions that might not be instantly apparent with our initial level of understanding. At the same time, Design Thinking provides a solution-based approach to solving problems. It is a way of thinking and working as well as a collection of hands-on methods.
 
 Integration requirements are defined by the business processes they support. Design thinking with respect to integration design refers to the understanding of business processes, the problems and inefficiencies in those processes, and the ideation of integration capabilities which can improve those processes.  
-
+</div>
 <br />
 
 {:.label .label-success-filled}

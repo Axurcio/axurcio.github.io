@@ -37,13 +37,13 @@ Integration problems generally fall into one of the following two categories:
 <br /> 
 **Application & System Integration** deals with integrating live operational data in real-time between two or more applications. Application Integration can be either Request based (e.g. "do this now"), Message Based (e.g. "do this when you get a chance"), or Event based (e.g. "this happened"). The mode of application integration is driven by the requirements of the business processes the integration supports, and the limitations and constraints of the technologies available to implement the integration.    
 
-<br />
-<br /> 
+<br />    
+
 {:.label .label-info-filled}
 {:.sub-title}
 Lean Startup
 
-<br /> 
+<br />    
 The Lean startup methodology is a scientific approach to problem solving that draws on feedback data to guide and speed up the integrations iterative development. This process involves assessing options against define criteria and experimenting with technologies and implementation patterns to gain evidence based knowledge on performance and constraints which may influence the final design.
 
 {:.label .label-info-filled}
@@ -58,12 +58,20 @@ Agile is a way of working, characterized by frequent and incremental delivery of
 
 {:.label .label-info-filled}
 {:.sub-title}
-API Lifecylce
+API Strategy
 
-<br /> 
-The API Lifecylce follows the CICD pipeline for APIM approach as documented here: https://azure.microsoft.com/en-au/blog/build-a-ci-cd-pipeline-for-api-management/   
+<br />   
 
-![api-governance-2](https://user-images.githubusercontent.com/662868/147716938-572ee89f-9166-4225-984e-ab2dba81cf90.png)    
+In the present day, APIs play a crucial role in integration, service platforms, innovation, and connectivity. They bring value by enabling direct monetization and enhancing core business functions. Additionally, they foster partnerships and cooperative communities globally, contributing to the push for standardization, as evident in Open Banking. When combined with the scalable processing power of the cloud, the data-gathering capabilities of the Internet of Things, and machine learning, APIs offer endless possibilities limited only by your imagination. To keep up with business growth, high-performing organizations require infrastructure development that aligns with their needs, offers rapid adaptability for innovation, and prioritizes ease of use and monetization opportunities.    
+
+**Throughout your business, our proven approach to developing API Strategy enables you to:**    
+
+Accelerate understanding.   
+Bring confidence to your investments.   
+Fuel agility.    
+Avoid tendencies towards complexity and drift.    
+
+ 
 <br />
 <hr />
 ### Ready to start?  

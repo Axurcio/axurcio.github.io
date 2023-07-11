@@ -3,7 +3,7 @@ layout: post
 category : work
 tagline: "Expertise"
 tags : [multi-cloud]
-img : ablog/img1.jpg
+img : service/img1.jpg
 img-mobile : 
 img2 : 
 img3 : 

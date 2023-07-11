@@ -18,7 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
-> Cloud Certified.   
+> We are multi-cloud Certified across Azure, AWS and GCP  
 <!--more-->
 
 # Azure

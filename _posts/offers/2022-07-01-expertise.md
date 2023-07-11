@@ -1,7 +1,7 @@
 ---
 layout: post
 category : work
-tagline: "Expertise"
+tagline: "Pillars of Talent"
 tags : [multi-cloud]
 img : service/img1.jpg
 img-mobile : 
@@ -10,7 +10,7 @@ img3 :
 author : Axurcio
 css: 
 js: 
-title2 : Our Expertises
+title2 : Our Expertise
 title3 : 
 bgcolor: ff5a71
 keywords: expertise, practices

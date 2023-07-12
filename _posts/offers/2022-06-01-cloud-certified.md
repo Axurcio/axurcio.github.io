@@ -3,15 +3,15 @@ layout: post
 category : work
 tagline: "Cloud Certified Azure, AWS, GCP"
 tags : [multi-cloud]
-img : blog/img9.jpg
+img : ai/certification-dance.jpg
 img-mobile : 
 img2 : 
 img3 : 
 author : Axurcio
 css: 
 js: 
-title2 : Looking for a new role?
-title3 : Join Us
+title2 : Multi-cloud certified
+title3 : 
 bgcolor: ff5a71
 keywords: certified, mulit-cloud, aws,azure,gcp 
 canonical: https://axurcio.com

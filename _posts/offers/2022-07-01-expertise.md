@@ -1,7 +1,7 @@
 ---
 layout: post
 category : work
-tagline: "Pillars of Talent"
+tagline: "Pillars of Expertise"
 tags : [multi-cloud]
 img : service/img1.jpg
 img-mobile : 

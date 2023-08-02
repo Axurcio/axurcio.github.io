@@ -36,18 +36,6 @@
                      <li class="nav-item"><a class="nav-link" href="/offers/2021/04/01/agile">Agile</a></li>
                      <li class="nav-item"><a class="nav-link" href="/offers/2021/03/01/custom-solutions">Solutions</a></li>
                      <li class="nav-item"><a class="nav-link" href="/offers/2021/01/01/finops">FinOps</a></li>
-                    {% assign pages_list = site.pages %}
-                     
-                    {% include JB/pages_list %}
-                    <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
-                        aria-expanded="false">More</a>
-                      <div class="dropdown-menu">
-                        {% for page in site.pages %}
-                          <a class="dropdown-item" href="{{ BASE_PATH }}{{ page.url }}">{{ page.title }}</a>                      
-                        {% endfor %}
-                      </div>
-                    </li>
                     <li class="nav-item"><a class="nav-link" href="/services/2023/01/01/partners">Talent Partners</a></li>
                   </ul>
                 </div>

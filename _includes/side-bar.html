@@ -7,7 +7,7 @@
 
 <div class="mb-60"></div>
 
-<div class="blog-block blog-posts-widget side-bar sticky-top">
+<div class="blog-block blog-posts-widget side-bar">
   <div class="widget-title">
     <h4>Microsoft Partner</h4>
   </div>
@@ -17,7 +17,7 @@
   />
 </div>
 
-<div class="blog-block blog-posts-widget side-bar sticky-top">
+<div class="blog-block blog-posts-widget side-bar">
   <div class="widget-title">
     <h4>AWS Partner</h4>
   </div>
@@ -26,15 +26,16 @@
 
 <div class="mb-60"></div>
 
-<div class="blog-block blog-posts-widget side-bar sticky-top">
+<div class="blog-block blog-posts-widget side-bar">
   
-    {% if site.JB.pages_list.provider == "custom" %} {% include
-    custom/pages_list %} {% else %} {% for node in pages_list %} {% if
-    node.title != null %} {% if group == null or group == node.group %} {% if
-    page.url == node.url %}
-     
-    <a class="nav-link" href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a>
-    <br/>
+    {% if site.JB.pages_list.provider == "custom" %} 
+    {% include  custom/pages_list %} 
+    {% else %} 
+    {% for node in pages_list %} 
+      {% if node.title != null %} {% if group == null or group == node.group %} 
+      {% if  page.url == node.url %}
+         <a class="nav-link" href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a>
+      <br/>
     {% else %} {% endif %} {% endif %} {% endif %} {% endfor %} {% endif %} {%
     assign pages_list = nil %} {% assign group = nil %}
   </ul>

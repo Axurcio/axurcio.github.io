@@ -15,24 +15,27 @@
     src="/assets/images/microsoft-partner-network.jpg"
     title="Microsoft Partner"
   />
-  <div>
-    <div class="mb-60"></div>
+</div>
 
-    <div class="blog-block blog-posts-widget side-bar sticky-top">
-      <ul class="navbar-nav">
-        {% if site.JB.pages_list.provider == "custom" %} {% include
-        custom/pages_list %} {% else %} {% for node in pages_list %} {% if
-        node.title != null %} {% if group == null or group == node.group %} {%
-        if page.url == node.url %}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ BASE_PATH }}{{node.url}}"
-            >{{node.title}}</a
-          >
-        </li>
-        {% else %} {% endif %} {% endif %} {% endif %} {% endfor %} {% endif %}
-        {% assign pages_list = nil %} {% assign group = nil %}
-      </ul>
-      <div></div>
-    </div>
+<div class="blog-block blog-posts-widget side-bar sticky-top">
+  <div class="widget-title">
+    <h4>AWS Partner</h4>
   </div>
+  <img src="/assets/images/solutions/aws.jpg title="AWS Partner" />
+</div>
+
+<div class="mb-60"></div>
+
+<div class="blog-block blog-posts-widget side-bar sticky-top">
+  <ul class="navbar-nav">
+    {% if site.JB.pages_list.provider == "custom" %} {% include
+    custom/pages_list %} {% else %} {% for node in pages_list %} {% if
+    node.title != null %} {% if group == null or group == node.group %} {% if
+    page.url == node.url %}
+    <li class="nav-item">
+      <a class="nav-link" href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a>
+    </li>
+    {% else %} {% endif %} {% endif %} {% endif %} {% endfor %} {% endif %} {%
+    assign pages_list = nil %} {% assign group = nil %}
+  </ul>
 </div>

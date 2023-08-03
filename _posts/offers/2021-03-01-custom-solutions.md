@@ -39,30 +39,44 @@ Azure integration services provide an enterprise ready, event-based, serverless 
 {:.label .label-success-filled}
 {:.sub-title}
 Machine Learning + Model Ops  
+
+<br />     
+
 ![image](/assets/images/solutions/automated-machine-learning.png){:height="256" width="125"}
- 
+
+<br />     
+
  We can make all these solutions or predictions that have been given by the Machine Learning Studio and different sorts of data such as Web Services using Microsoft Azure. 
  
+<br />     
+
  Azure helps in redirecting our Client Applications Service request towards any service that they need like a website that has been hosted inside or outside azure, mobile apps, or coded desktop applications like Excel.
-<br />
-<br />
-<br />  
+
+<br />     
+<br />     
 
 {:.label .label-warning-filled}
 {:.sub-title}
 IoT Edge        
 ![image](/assets/images/solutions/iot.png)
 
+<br />     
+
 Azure IoT Edge is a fully managed service built on Azure IoT Hub. Deploy your cloud workloads – artificial intelligence, Run your logic on Internet of Things (IoT) edge devices via standard containers.
 
-<br />
-<br />  
+<br />     
+<br />     
+
+
 ## And much more
+
+<br />     
+
 Axurcio has a wealth of knowledge when it comes to realising an idea as a successful commercial venture.  
 Our experience comes from both working on our own products and the products of our partners and customers.  
 
+<br />     
 
-<br />
 <hr />
 ### Ready to start?  
 

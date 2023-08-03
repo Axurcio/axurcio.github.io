@@ -20,20 +20,32 @@ canonical: https://axurcio.com
 
 > We are multi-cloud Certified across Azure, AWS and GCP  
 <!--more-->
+<br />     
 
 # Azure
+
+<br />     
+<br />     
 
 ![Azure](/assets/images/certs/azure.png){:height="50%" width="50%"}
 
 # AWS 
 
+<br />     
+<br />     
+
 ![AWS](/assets/images/certs/aws.png){:height="50%" width="50%"}
+
+<br />     
+<br />     
 
 # GCP 
 
 ![AWS](/assets/images/certs/gcp.png){:height="50%" width="50%"}
 
-<br />
+<br />     
+<br />     
+
 <hr />
 ### Ready to start?  
 

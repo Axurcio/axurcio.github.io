@@ -41,7 +41,7 @@ Integration Types:
 
 {:.label .label-info-filled}
 {:.sub-title}
-Lean Startup
+Lean Approach    
 
 <br />     
 
@@ -54,17 +54,14 @@ The Lean startup methodology is a scientific approach to problem solving that dr
 Agile  
 
 <br />   
-
 Agile is a way of working, characterized by frequent and incremental delivery of product, ongoing reassessment of and adaptation of plans.  
-
 <br />     
 
 {:.label .label-info-filled}
 {:.sub-title}
-API Strategy
+API Strategy    
 
 <br />   
-
 In the present day, APIs play a crucial role in integration, service platforms, innovation, and connectivity. They bring value by enabling direct monetization and enhancing core business functions. Additionally, they foster partnerships and cooperative communities globally, contributing to the push for standardization, as evident in Open Banking. When combined with the scalable processing power of the cloud, the data-gathering capabilities of the Internet of Things, and machine learning, APIs offer endless possibilities limited only by your imagination. To keep up with business growth, high-performing organizations require infrastructure development that aligns with their needs, offers rapid adaptability for innovation, and prioritizes ease of use and monetization opportunities.    
 
 <br />     

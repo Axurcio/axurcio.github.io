@@ -30,7 +30,7 @@ Through deep engagement with your key stakeholders, our team will be able to dev
 
 {:.label .label-success-filled}
 {:.sub-title}
-Our Approach    
+The Four D Approach    
 
 <br />     
 Using our product design methodology that we have refined over many years through multiple customer engagements, we collaborate to understand your vision, strategy, challenges and opportunities. The traditional and most commonly used approach to designing digital products and strategies is to use the Design Thinking approach. Typically, this is comprised of the Four D’s - Discover, Define, Develop and Deliver.   
@@ -38,6 +38,11 @@ Using our product design methodology that we have refined over many years throug
 <br />
 
 ![Approach](https://user-images.githubusercontent.com/662868/248429973-7f69df2d-c76f-4b35-9af1-d79309420cb1.png)
+
+
+{:.label .label-success-filled}
+{:.sub-title}
+Steps in each stage    
 
 <br />
 ![Steps](https://user-images.githubusercontent.com/662868/248431188-66a42e9b-5e4d-44fc-8379-d4ecfc5e413c.png)

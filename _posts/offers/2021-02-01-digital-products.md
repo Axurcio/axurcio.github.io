@@ -22,7 +22,7 @@ canonical: https://axurcio.com
 <!--more-->  
 
 Through deep engagement with your key stakeholders, our team will be able to develop a comprehensive Product Strategy and Execution Plan that will have technology enablement at its core to help you achieve the business objectives of your digital product, and at the same time help you to overcome challenges and take advantage of opportunities. We do this through our tried and tested Product Validation Process (PVP).  
-<br />    
+
 <br />    
 ![Alignment](https://user-images.githubusercontent.com/662868/248431143-dc3e856b-b152-4530-b389-160781873dea.png)
 

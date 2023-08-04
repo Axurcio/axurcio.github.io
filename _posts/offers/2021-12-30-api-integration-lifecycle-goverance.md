@@ -79,6 +79,4 @@ In the present day, APIs play a crucial role in integration, service platforms, 
 <hr />
 ### Ready to start?  
 
-<br />     
-<br />     
 [Contact us to start your journey](/contact)

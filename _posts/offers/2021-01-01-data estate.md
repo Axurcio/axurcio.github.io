@@ -35,14 +35,14 @@ Data Estate Assessment
 
 <br />
 
-We work with our proven framework to establish a recommended target state and roadmap for achieving your organisation’s desired outcomes in driving more efficient data management and usage needs.
+> We work with our proven framework to establish a recommended target state and roadmap for achieving your organisation’s desired outcomes in driving more efficient data management and usage needs.
 
 **Deliverables**
 
-* Review current data landscape and usage patterns
-* Identify gaps and recommend changes to address organisation specific needs
-* Assessment summary including pain points and gap analysis
-* Recommended target state environment
+* Review of the current data landscape and usage patterns
+* Gap identification and recommended changes to address organisation specific needs
+* Key risks and mitigation strategies
+* Target state architecture
 * Adoption roadmap and running cost estimates for platform
 
 

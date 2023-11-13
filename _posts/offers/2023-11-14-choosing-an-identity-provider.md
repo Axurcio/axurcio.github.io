@@ -1,8 +1,8 @@
 ---
 layout: post
-category : offers
+category : assessments
 tagline: "Choosing an Identity Provider"
-tags : [identity]
+tags : [identity, product selection]
 img : identity/id1.jpg
 img-mobile : 
 img2 : 
@@ -17,7 +17,6 @@ keywords: identity, case study
 canonical: https://axurcio.com
 ---
 {% include JB/setup %}
-
 
 
 # **Customer Identity and Access Management**

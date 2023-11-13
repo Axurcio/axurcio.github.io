@@ -1,23 +1,22 @@
 ---
 layout: post
-category : assessments
-tagline: "Choosing an Identity Provider"
-tags : [identity, product selection]
-img : identity/id1.jpg
+category : work
+tagline: "Pillars of Expertise"
+tags : [multi-cloud]
+img : service/img1.jpg
 img-mobile : 
 img2 : 
 img3 : 
 author : Axurcio
 css: 
 js: 
-title2 : Choosing an Identity Provider
-title3 : Case Study
+title2 : Our Expertise
+title3 : 
 bgcolor: ff5a71
-keywords: identity, case study
+keywords: expertise, practices
 canonical: https://axurcio.com
 ---
 {% include JB/setup %}
-
 
 # **Customer Identity and Access Management**
 

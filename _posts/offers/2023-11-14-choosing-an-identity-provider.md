@@ -1,6 +1,6 @@
 ---
 layout: post
-category : case-study
+category : offers
 tagline: "Choosing an Identity Provider"
 tags : [identity]
 img : identity/id1.jpg

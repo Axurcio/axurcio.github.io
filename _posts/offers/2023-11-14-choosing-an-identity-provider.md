@@ -1,7 +1,7 @@
 ---
 layout: post
 category : work
-tagline: "Pillars of Expertise"
+tagline: "Choosing a Customer Identity and Access Managment orovider"
 tags : [multi-cloud]
 img : service/img1.jpg
 img-mobile : 
@@ -10,10 +10,10 @@ img3 :
 author : Axurcio
 css: 
 js: 
-title2 : Our Expertise
-title3 : 
+title2 : Solution Evaluation
+title3 : Customer Identity and Access Managment
 bgcolor: ff5a71
-keywords: expertise, practices
+keywords: product-selection, identity, ciam
 canonical: https://axurcio.com
 ---
 {% include JB/setup %}

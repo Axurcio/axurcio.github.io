@@ -18,6 +18,7 @@ canonical: https://axurcio.com
 ---
 {% include JB/setup %}
 
+
 # **Customer Identity and Access Management**
 <br />    
 <br />    
@@ -37,7 +38,9 @@ Axurcio was engaged to provide options for a CIAM implementation and provide a r
 ![image](https://github.com/Axurcio/axurcio.github.io/assets/662868/f13ec856-f65c-4f0f-a893-f4dac8029245)
 
 # Scope
-<br />    
+
+<br />  
+
 ## In Scope
 
 | **Area**                    | **Requirement**       | **MUSCOW**                                                                           | **Scope**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -72,15 +75,19 @@ Axurcio was engaged to provide options for a CIAM implementation and provide a r
 | API Access Management       | SHOULD                | Authorise users and roles to APIs                                                    |
 |                             |
 | Development SDK             | SHOULD                | Provide client libraries for easy application integration                            |
-<br />    
+<br />  
+  
 ## Out of Scope
-<br />    
+<br />  
+  
 - Password based logins / storing passwords
 - Anything not deemed in scope
 
- <br />    
+<br />  
+  
 ## Security Considerations
-<br />    
+<br />  
+    
 A recommended authentication protocol for modern web and mobile authentication is **OpenID Connect (OIDC).** This is an open standard that provides a simple and secure way for users to authenticate with web applications. It is based on OAuth 2.0 and uses JSON Web Tokens (JWTs) to exchange identity information between the user, the client application, and the identity provider (IdP).
 
 The **Proof Key of Code Exchange (PKCE)** is an extension of the standard authorization code grant OAuth flow. It is designed to be a secure substitute for the implicit flow for single-page applications (SPA) or native applications.
@@ -120,10 +127,11 @@ The level of support provided by the vendor, including technical support, update
 **Flexibility**
 
 The solution should be able to adapt to future changes in technology, business requirements, and regulatory environment.
-<br />    
+<br />  
+  
 
 # Options Analysis
-<br />    
+<br />  
 
 ### Do Nothing
 
@@ -176,10 +184,11 @@ The solution should be able to adapt to future changes in technology, business r
 - behind in features compared with other options but rapidly catching up
  
     
-<br />    
+<br />  
+
 ### Evaluation of solution options
-<br />    
-<br />    
+<br />  
+ 
 
 |                              | **AWS Cognito**                                                                    | **Auth 0**                                                                                                           | **Fusion Auth**                                                                                            | **Keycloak**                                                                                      | **Kinde**                                                                                    |
 | ---------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -197,13 +206,14 @@ The solution should be able to adapt to future changes in technology, business r
 | Time to deploy full solution | 4-5 weeks                                                                          | 2-3 weeks                                                                                                            | 2-3 weeks                                                                                                  | 5-6 weeks                                                                                         | 2-3 weeks                                                                                    |
 | Annual Maintenance Effort    | Small                                                                              | Small                                                                                                                | Medium                                                                                                     | Large                                                                                             | Small                                                                                        |
 
-<br />    
+<br />  
+
 ### Recommended Solution
-<br />    
-<br />    
+<br />  
+ 
+
 | _Recommendation:_ | FusionAuth |
 | ----------------- | ---------- |
-<br />    
 
 From an analysis of several solutions in the marketplace that offer Customer Identity and Access Management features was checked for fit against the business goals, functional and technical fit, which resulted in 5 being shortlisted
 
@@ -223,3 +233,10 @@ The Starter plan includes premium auth features including advanced MFA, single s
 On the Starter plan, support is provided through the community, including forums, Slack, and GitHub. The Starter plan allows up to 10,000 monthly active users.
 
 The service runs on a dedicated EC2 instance. This is a single server with 3 days of backups. A single domain can be configured.
+
+
+<br />    
+<hr />
+### Ready to select your solution?  
+
+[Contact us to start your journey](/contact)

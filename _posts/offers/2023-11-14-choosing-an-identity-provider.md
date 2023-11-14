@@ -19,9 +19,11 @@ canonical: https://axurcio.com
 {% include JB/setup %}
 
 # **Customer Identity and Access Management**
-
+<br />    
+<br />    
 ## An Example of our work choosing a CIAM Options Analysis
-
+<br />    
+<br />    
 # The Challenge
 
 Recently we had a client that was using Salesforce Visualforce portals with custom code to authenticate users in Salesforce with a username, password and community license.

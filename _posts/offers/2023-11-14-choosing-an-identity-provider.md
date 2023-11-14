@@ -214,10 +214,8 @@ The solution should be able to adapt to future changes in technology, business r
 
 ### Recommended Solution
 <br />  
- 
 
-| _Recommendation:_ | FusionAuth |
-| ----------------- | ---------- |
+> Recommendation: FusionAuth 
 
 From an analysis of several solutions in the marketplace that offer Customer Identity and Access Management features was checked for fit against the business goals, functional and technical fit, which resulted in 5 being shortlisted
 

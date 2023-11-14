@@ -1,6 +1,6 @@
 ---
 layout: post
-category : work
+category : offers
 tagline: "Choosing a Customer Identity and Access Managment orovider"
 tags : [multi-cloud]
 img : service/img1.jpg

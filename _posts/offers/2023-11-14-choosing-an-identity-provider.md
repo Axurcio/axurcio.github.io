@@ -43,6 +43,8 @@ Axurcio was engaged to provide options for a CIAM implementation and provide a r
 
 ## In Scope
 
+<br />  
+
 | **Area**                    | **Requirement**       | **MUSCOW**                                                                           | **Scope**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------- | --------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | User Registration           | Sign Up               | MUST                                                                                 | Account object - First Name, Middle Name Last Name, Address, Email, Phone • Flags and params for ID verification with Frankie One, • Flags and params for open banking details with Basiq,• Income details (Child object), • Employment details (Child object) • Open banking accounts (Child object) • Monthly expense details (Child object), • Assets details (Child object), • Household account details in case of a join app (parent), User object – Username, Email, Phone, • User profile (community user profile), • User license (SF community plus license) |  |
@@ -75,6 +77,8 @@ Axurcio was engaged to provide options for a CIAM implementation and provide a r
 | API Access Management       | SHOULD                | Authorise users and roles to APIs                                                    |
 |                             |
 | Development SDK             | SHOULD                | Provide client libraries for easy application integration                            |
+
+
 <br />  
   
 ## Out of Scope

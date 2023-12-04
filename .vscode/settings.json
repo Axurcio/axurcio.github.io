@@ -19,5 +19,11 @@
         "statusBarItem.remoteForeground": "#e7e7e7",
         "commandCenter.border": "#e7e7e799"
     },
-    "peacock.color": "#dd0531"
+    "peacock.color": "#dd0531",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\chris\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+        "C:\\Users\\chris\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ]
 }

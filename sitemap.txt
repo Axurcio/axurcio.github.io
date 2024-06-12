@@ -3,9 +3,9 @@
 title : Sitemap
 ---
 
-https://axurcio.com
-https://axurcio.com/contact
-https://axurcio.com/learn
+https://blog.axurcio.com
+https://blog.axurcio.com/contact
+https://blog/axurcio.com/learn
 {% for post in site.posts %}
-https://www.axurcio.com{{ post.url }} 
+https://blog.axurcio.com{{ post.url }} 
 {% endfor %}

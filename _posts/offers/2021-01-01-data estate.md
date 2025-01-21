@@ -27,7 +27,7 @@ Our data estate assessment approach encompasses all aspects of a Data Analytics 
  
 <br />    
 
-![data](https://blog.axurcio.com/assets/images/data/data-estate-assessment.png)
+![data](https://www.axurcio.com/assets/images/data/data-estate-assessment.png)
 
 {:.label .label-success-filled}
 {:.sub-title}

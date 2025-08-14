@@ -1,0 +1,47 @@
+{
+  "name": "Jekyll Blog Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.2",
+  "features": {
+  },
+  "containerEnv": {
+    "JEKYLL_ENV": "development"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "rebornix.Ruby",
+        "shopify.ruby-lsp",
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one",
+        "hediet.vscode-drawio",
+        "GitHub.copilot",
+        "johnpapa.vscode-peacock",
+        "bierner.markdown-mermaid",
+        "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+        "davidanson.vscode-markdownlint",
+      ],
+      "settings": {
+        "editor.tabSize": 4,
+        "terminal.integrated.defaultProfile.linux": "zsh",
+        "terminal.integrated.profiles.linux": {
+          "bash": { "path": "bash", "icon": "terminal-bash" },
+          "zsh": { "path": "zsh" },
+          "fish": { "path": "fish" },
+          "tmux": { "path": "tmux", "icon": "terminal-tmux" },
+          "pwsh": { "path": "pwsh", "icon": "terminal-powershell" }
+        }
+      }
+    }
+  },
+  "forwardPorts": [4000, 35729],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll Site",
+      "onAutoForward": "openPreview"
+    },
+    "35729": {
+      "label": "LiveReload"
+    }
+  },
+  "remoteUser": "vscode"
+}

@@ -152,7 +152,7 @@ Point-to-point integration refers to a direct integration between two systems wh
 - **iPaaS**
 Integration Platform as a Service (iPaaS) refers to a platform that standardizes how applications are integrated into an organization, making it easier to automate business processes and share data across applications. iPaaS in Azure terms refers to [Azure Integration Service](https://azure.microsoft.com/en-au/product-categories/integration/), a suite of Azure products including Azure Functions, Logic Apps, Service Bus Messaging and API Management, which together form the core services for integration in the Azure landscape. 
 
-</br>
+<br/>
 
 - **ETL Tool**
 Extract, transform, and load (ETL) is a data pipeline used to collect data from various sources, transform the data according to business rules, and load it into a destination data store. The transformation work in ETL takes place in a specialized engine, and often involves using staging tables to temporarily hold data as it is being transformed and ultimately loaded to its destination.<br/>

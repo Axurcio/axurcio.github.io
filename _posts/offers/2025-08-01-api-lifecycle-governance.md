@@ -20,7 +20,7 @@ canonical: https://axurcio.com
 
 > The Integrations Lifecycle follows a Design Thinking Lean Startup Agile approach.
 
-<img width="1481" height="755" alt="Image" src="https://github.com/user-attachments/assets/e8ee6615-47a9-4a49-861a-461bdad3803e" />
+<img alt="Design thinking" src="https://github.com/user-attachments/assets/e8ee6615-47a9-4a49-861a-461bdad3803e" />
 <!--more-->
 # Design Thinking
 
@@ -90,7 +90,7 @@ Agile is a **way of working** characterized by:
 The API Lifecycle follows the **CI/CD pipeline for API Management (APIM)** approach:  
 [Build a CI/CD Pipeline for API Management](https://azure.microsoft.com/en-au/blog/build-a-ci-cd-pipeline-for-api-management/)
 
-<img alt="Image" src="https://github.com/user-attachments/assets/0306c750-7996-4e51-b668-a06ec98cf429" />
+<img alt="CI/CD pipeline for API Management" src="https://github.com/user-attachments/assets/0306c750-7996-4e51-b668-a06ec98cf429" />
 
 # Our Technological Competencies
 <br />    

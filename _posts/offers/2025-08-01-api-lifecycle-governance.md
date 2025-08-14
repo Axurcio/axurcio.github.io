@@ -3,7 +3,7 @@ layout: post
 category : work
 tagline: "API & Integration Lifecycle Governance"
 tags : [multi-cloud]
-img : service/img1.jpg
+img : service/2025-img-1.png
 img-mobile : 
 img2 : 
 img3 : 

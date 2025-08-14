@@ -92,6 +92,9 @@ The API Lifecycle follows the **CI/CD pipeline for API Management (APIM)** appro
 
 <img alt="CI/CD pipeline for API Management" src="https://github.com/user-attachments/assets/0306c750-7996-4e51-b668-a06ec98cf429" />
 
+<br/>
+<br/>
+
 # Our Technological Competencies
 <br />    
 ![image](https://github.com/Axurcio/axurcio.github.io/assets/662868/03944ecd-1619-4ea9-b4ac-c023020d9b77)

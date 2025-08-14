@@ -21,6 +21,8 @@ canonical: https://axurcio.com
 
 > Which integration method should you use for a given scenario?
 
+<!--more-->
+
 # Overview
 The integration decision tree is a tool which can be used to decide which integration patterns and technologies should be used to implement an integration.  The decision tree references approved integration design patterns, template projects and standards which should be used to implement the integration.
 

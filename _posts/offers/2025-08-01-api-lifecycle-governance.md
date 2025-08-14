@@ -20,7 +20,6 @@ canonical: https://axurcio.com
 
 > The Integrations Lifecycle follows a Design Thinking Lean Startup Agile approach.
 
-<img alt="Design thinking" src="https://github.com/user-attachments/assets/e8ee6615-47a9-4a49-861a-461bdad3803e" />
 <!--more-->
 # Design Thinking
 
